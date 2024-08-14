@@ -1,3 +1,11 @@
+**This repository has been archived.**
+
+## Important Notice
+
+This project has been moved to a new repository and renamed. Please visit the new repository for the latest updates and information:
+
+[Proxus MQTT Bench](https://github.com/volkanalkilic/Proxus_MQTT_Bench)
+
 # ThingsOn MQTT Bench
 
 ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
